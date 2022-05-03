@@ -8,9 +8,17 @@ body{
     font-family: 'Ubuntu', sans-serif;
 }
 
+/* header */
+header{
+    margin: 10px 20px;
+}
+
 span{
     line-height: 50px;
-    vertical-align: middle;
     font-size: 30px;
-    font-weight: bolder;
+    font-weight: bold;
+}
+
+img, span{
+    vertical-align: middle;
 }
