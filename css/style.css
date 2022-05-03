@@ -68,6 +68,10 @@ main{
     vertical-align: middle;
 }
 
+section{
+    margin: 20px 0;
+}
+
 /* check */
 .check{
     height: 10px;
@@ -86,9 +90,32 @@ main{
 
 /* etichette */
 .etichetta{
-    background-color: lightskyblue;
     border-radius: 10px;
     padding: 5px;
     color: white;
     border: 1px solid;
+}
+
+.editorial{
+    background-color: lightskyblue;
+}
+
+.goals{
+    background-color: purple;
+}
+
+.recruiting{
+    background-color: aquamarine;
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.site{
+    background-color: pink;
+}
+
+.sales{
+    background-color: lime;
 }
